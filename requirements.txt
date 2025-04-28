@@ -1,0 +1,10 @@
+langchain-google-genai
+python-dotenv
+langchain_community
+faiss-cpu
+langchain
+flask
+flask_cors
+flask_sqlalchemy
+Flask
+gunicorn
